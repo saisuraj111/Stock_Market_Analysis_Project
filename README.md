@@ -32,3 +32,6 @@ Then open Stock_Analysis_Project_Sai_Suraj_D_.ipynb and click Run All
 - Most volatile: AMZN showed widest price swings
 - AAPL and MSFT showed highest correlation
 - Sharpe ratio reveals best risk-adjusted returns
+
+## Disclaimer
+This project is for educational purposes only and does not constitute financial advice. All analysis is based on historical data and should not be used to make investment decisions.
